@@ -1,0 +1,7 @@
+# Consume:
+CONSUMER_KEY    = 'bfm7Dye63QkREO07nxEgtkJqz'
+CONSUMER_SECRET = 'bSXOCQFHZm5Xpvye1TWdvsk7qVr7Ta1eGKyTtqDmtLv8hwtRrk'
+
+# Access:
+ACCESS_TOKEN  = '2870298046-X7KZg4FFp9nnnMrRd02AXOznPzYg4ZR4flrjYje'
+ACCESS_SECRET = 'KGaRJgtEn15ywYIPYgLjoCxHpxybqSI2qk4gitWffftn6'
